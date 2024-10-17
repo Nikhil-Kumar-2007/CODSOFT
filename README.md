@@ -46,4 +46,5 @@ This is a console-based application that allows users to create and manage their
 - Delete tasks by index
 - mark as completed
 - Tasks are saved to a file for persistence
+- Continuous operation until the user decides to confirm operation
 
