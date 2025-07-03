@@ -1,9 +1,3 @@
-# CODSOFT
-
-
-
-
-
 # Welcome to My GitHub Profile
 
 👋 Hi there! I'm Nikhil Kumar, a passionate programmer with a focus on C++ development. Here you'll find some of my console-based projects that demonstrate my skills and creativity. Feel free to explore, fork, or contribute.
